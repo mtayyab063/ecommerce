@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SjIOSgyEJyEJE6m1ZyVjHKRQcCK//S12klYTlyv4ZVqG5/ayJhzR+FCb5ZzL7Nzq4A+gcRKhSYNuO3CAtz9F7A==",
+  "dgSpecHash": "QFYBhx1tcewsJFyqAAG+VEuFNthOcoiVEo4vy8YpuAwwUQj4LRetL/UeadS/ZC1FMXFaD0MQUWLQs+kC+4/Z2g==",
   "success": true,
   "projectFilePath": "D:\\Learning\\Microservices\\ECommerce\\ECommerce.Api.Products.Test\\ECommerce.Api.Products.Test.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,7 @@
     "C:\\Users\\t-Tayyab\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\t-Tayyab\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.9.4\\microsoft.testplatform.objectmodel.16.9.4.nupkg.sha512",
     "C:\\Users\\t-Tayyab\\.nuget\\packages\\microsoft.testplatform.testhost\\16.9.4\\microsoft.testplatform.testhost.16.9.4.nupkg.sha512",
+    "C:\\Users\\t-Tayyab\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\t-Tayyab\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\t-Tayyab\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\t-Tayyab\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",

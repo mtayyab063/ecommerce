@@ -39,3 +39,4 @@ D:\Learning\Microservices\ECommerce\ECommerce.Api.Customers\bin\Debug\net5.0\ECo
 D:\Learning\Microservices\ECommerce\ECommerce.Api.Customers\bin\Debug\net5.0\ECommerce.Api.Orders.exe
 D:\Learning\Microservices\ECommerce\ECommerce.Api.Customers\bin\Debug\net5.0\ECommerce.Api.Orders.dll
 D:\Learning\Microservices\ECommerce\ECommerce.Api.Customers\bin\Debug\net5.0\ECommerce.Api.Orders.pdb
+D:\Learning\Microservices\ECommerce\ECommerce.Api.Customers\obj\Debug\net5.0\ECommerce.Api.Customers.csproj.CopyComplete
